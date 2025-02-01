@@ -1,5 +1,4 @@
-# Weather APP
-Created by JAMAOUI Mouad : https://jamaoui.github.io/reactjs_weather_app/
+
 
 
 
